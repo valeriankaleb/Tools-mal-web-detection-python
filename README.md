@@ -1,4 +1,4 @@
-# Malicious Web Detector (MWD)
+# Malicious Web Detector (MWD) Menggunakan Pemrograman Python
 
 MWD (Malicious Web Detector) adalah tool Python untuk menganalisis keamanan sebuah website melalui berbagai teknik pasif, heuristik, dan integrasi API eksternal.
 Tool ini mampu mendeteksi indikasi phishing, malicious behavior, misconfiguration, hingga reputasi domain/IP.
